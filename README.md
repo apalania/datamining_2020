@@ -1,5 +1,5 @@
 # datamining_2020
-Repository for projects in the Data Mining course offered for II year UG Bioinformatics students, Dec 2019 - April 2020
+Repository for projects in my Data Mining course offered for II year UG Bioinformatics students during Dec 2019 - April 2020
 
 | Filename   | Project       	|  Team |
 | ------------- |:-------------:| -----:|
@@ -9,3 +9,9 @@ Repository for projects in the Data Mining course offered for II year UG Bioinfo
 | ExoplanetHunting       | Exoplanet Hunting using Machine Learning      |   M Govindhapriya, C Haridha, S Harini |
 | HeartDiseasePrediction | Heart disease prediction project using machine learning  |   V Dhivya, K Dharunya, S Keerthana |
 
+---
+Copyright, respective student authors and Ashok Palaniappan
+Department of Bioinformatics,
+School of Chemical and BioTechnology,
+SASTRA Deemed University, Thanjavur 613401
+India
