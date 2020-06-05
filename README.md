@@ -10,7 +10,8 @@ Repository for projects in my Data Mining course offered for II year UG Bioinfor
 | HeartDiseasePrediction | Heart disease prediction project using machine learning  |   V Dhivya, K Dharunya, S Keerthana |
 
 ---
-Copyright, respective student authors and Ashok Palaniappan
+___Copyright, respective student authors and Ashok Palaniappan
+___
 Department of Bioinformatics,
 School of Chemical and BioTechnology,
 SASTRA Deemed University, Thanjavur 613401
