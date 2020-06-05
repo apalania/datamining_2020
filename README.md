@@ -14,5 +14,5 @@ __Copyright: respective student authors and Ashok Palaniappan__
 ___
 Department of Bioinformatics,
 School of Chemical and BioTechnology,
-SASTRA Deemed University, Thanjavur 613401
+SASTRA Deemed University, Thanjavur 613401.
 India
